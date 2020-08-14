@@ -1,4 +1,4 @@
-# +++
++++
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
@@ -34,6 +34,4 @@ date_format = "Jan 2006"
   date_start = "2010-02-01"
   date_end = "2014-08-30"
   description = """Research, forecasting, and adviser of a board member."""
-+++
-
 +++
