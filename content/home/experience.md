@@ -76,8 +76,8 @@ date_format = "Jan 2006"
   company = "Petrini Valores S.A. Stock Market"
   company_url = "Junior Analyst"
   location = "Córdoba, Argentina"
-  date_start = "2005-08-01"
-  date_end = "2006-02-01"
+  date_start = "2006-09-01"
+  date_end = "2007-03-01"
   description = """In charge of the stock market report"""
   
   
