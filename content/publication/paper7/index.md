@@ -3,7 +3,7 @@ title: "Aux Marchés Financiers Internationaux et lissage de la Consommation: Ob
 authors:
 - Guillermo Larrain
 - admin
-- Guillermo Yanez
+- Guillermo Yanez 
 date: "2009-01-01T00:00:00Z"
 doi: ""
 
