@@ -8,6 +8,11 @@
   url = "#about"
   weight = 10
 
+ [[main]]
+    name = "JMP"
+    url = "files/JMP.pdf"
+    weight = 9
+
 #[[main]]
 #  name = "Posts"
 #  url = "#posts"
