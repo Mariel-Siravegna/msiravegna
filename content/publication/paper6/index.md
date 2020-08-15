@@ -1,5 +1,5 @@
 ---
-title: "The resilience of the emerging economies  in the face of crisis scenarios"
+title: "The resilience of the emerging economies in the face of crisis scenarios"
 authors:
 - Alfredo Pistelli
 - admin
@@ -22,13 +22,13 @@ publication_short: ""
 abstract: 
 
 # Summary. An optional shortened abstract.
-summary:Box V.1 in the Monetary Policy Report.
+summary: Box V.1 in the Monetary Policy Report.
 
 #tags:
 #- Commodity prices
 #- Stock markets
 #- LAC
-#featured: false
+featured: false
 
 # links:
 # - name: ""
