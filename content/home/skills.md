@@ -16,7 +16,7 @@ subtitle = ""
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Applied Methods"
+  name = "Empirical Methods"
   description = "" 
 
 [[feature]]
