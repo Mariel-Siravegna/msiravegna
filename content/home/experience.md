@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   description = """Systematic Country Diagnostic. Develop the statistical methodology and perform the prioritization exercise for Zambia"""
 
 [[experience]]
-  title = "Economic and financial analyst at the Research Division"
+  title = "Economic and Financial Analyst at the Research Division"
   company = "Central Bank of Chile"
   company_url = ""
   location = "Santiago, Chile"
@@ -45,7 +45,7 @@ date_format = "Jan 2006"
   description = """Economic research for further publication of papers and economic notes"""
   
   [[experience]]
-  title = "Research assistant on Consulting Projects"
+  title = "Research Assistant on Consulting Projects"
   company = "Le Fort Economics and Finance"
   company_url = ""
   location = "Santiago, Chile"
@@ -54,7 +54,7 @@ date_format = "Jan 2006"
   description = """Report for the Chilean Ministry of Finance"""
   
    [[experience]]
-  title = "Research assistant"
+  title = "Research Assistant"
   company = "ILADES/Georgetown University"
   company_url = ""
   location = "Santiago, Chile"
