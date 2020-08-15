@@ -2,8 +2,8 @@
 title: "Aux Marchés Financiers Internationaux et lissage de la Consommation: Observations Récentes en Amérique Latine"
 authors:
 - Guillermo Larrain
-- admin
 - Guillermo Yanez 
+- admin
 date: "2009-01-01T00:00:00Z"
 doi: ""
 
