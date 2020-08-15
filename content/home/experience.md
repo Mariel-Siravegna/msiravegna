@@ -45,6 +45,17 @@ date_format = "Jan 2006"
   description = """Economic research for further publication of papers and economic notes"""
   
   [[experience]]
+  title = "Instructor. Researcher and Teaching."
+  company = "Santo Tomás University"
+  company_url = ""
+  location = "Santiago, Chile"
+  date_start = "2009-08-01"
+  date_end = "2009-12-30"
+  description = """Researcher and Instructor in 1) Macroeconomics 2)Introduction to Economics"""
+  
+  
+  
+  [[experience]]
   title = "Research Assistant on Consulting Projects"
   company = "Le Fort Economics and Finance"
   company_url = ""
