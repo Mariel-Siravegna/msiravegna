@@ -74,5 +74,5 @@ user_groups:
 ---
 I am Ph.D. candidate in Economics at Georgetown University with almost 5 years of work experience in the Research Division at the Central Bank of Chile.
 
-I use empirical methods to look at an issue from multiple perspectives. 
+Most of my work is to use empirical methods to look at an issue from multiple perspectives. 
 
