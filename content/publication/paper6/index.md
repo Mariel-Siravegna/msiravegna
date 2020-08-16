@@ -16,7 +16,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Monetary Policy Report, Central Bank of Chile (Box V.1. pag 17) [In English]*"
+publication: "*Monetary Policy Report, Central Bank of Chile (Box V.1. pag 17)*"
 publication_short: ""
 
 abstract: 
