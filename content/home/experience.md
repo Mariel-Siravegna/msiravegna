@@ -42,16 +42,16 @@ date_format = "Jan 2006"
   location = "Santiago, Chile"
   date_start = "2010-01-01"
   date_end = "2014-08-04"
-  description = """Economic research aimed at producing research papers and technical notes.""" """ Analysis of international economic issues for the Board of Directors. Contributes to the Monetary Policy Report.""" """Responsible for the “Discussion of International Topics” report"""
+  description = """Economic research aimed at producing research papers and technical notes. Analysis of international economic issues for the Board of Directors. Contributes to the Monetary Policy Report. Responsible for the “Discussion of International Topics” report"""
   
   [[experience]]
-  title = "Instructor. Researcher and Teaching."
+  title = "Instructor and Researcher"
   company = "Santo Tomás University"
   company_url = ""
   location = "Santiago, Chile"
   date_start = "2009-08-01"
   date_end = "2009-12-30"
-  description = """Researcher and Instructor in 1) Macroeconomics 2)Introduction to Economics"""
+  description = """Instructor for 1) Macroeconomics, 2) Introduction to Economics"""
   
   
   
@@ -71,7 +71,7 @@ date_format = "Jan 2006"
   location = "Santiago, Chile"
   date_start = "2007-08-01"
   date_end = "2009-06-01"
-  description = """1) Growth and Social Progress in Chile, 2) Incentives and Efficiency in Public Spending"""
+  description = """1) Growth and Social Progress in Chile, 2) Incentives and Efficiency of Public Spending"""
   
    [[experience]]
   title = "Junior Economist"
