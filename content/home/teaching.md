@@ -37,13 +37,13 @@ date_format = "Jan 2006"
  description = """Political Economy of Trade Policy, Market Design, Senior Seminar in Economics/Inter. Economics (x2), Introduction to Microeconomics, Introduction to Econometrics (x2) """
  
 [[experience]]
- title = "Instructor in Econometrics"
+ title = "Instructor"
  company = "Santo Tomás University"
  company_url = ""
  location = "Santiago, Chile"
  date_start = "2010-07-01"
  date_end = "2012-12-01"
- description = """"""  
+ description = """Econometrics"""  
  
 [[experience]]
  title = "Teaching Assistant"
@@ -52,7 +52,7 @@ date_format = "Jan 2006"
  location = "Santiago, Chile"
  date_start = "2007-07-01"
  date_end = "2009-07-01"
- description = """Econometric I (Graduate Program ILADES/Georgetown)and Microeconomics Theory and Economics of the Firm (Undergraduate)"""
+ description = """Econometric I (Graduate Program ILADES/Georgetown) and Microeconomics Theory and Economics of the Firm (Undergraduate)"""
  
  [[experience]]
  title = "Teaching Assistant"
@@ -61,6 +61,6 @@ date_format = "Jan 2006"
  location = "Córdoba, Argentina"
  date_start = "2003-03-01"
  date_end = "2006-07-01"
- description = """Teaching Assistant in Introduction to Economics and Securities and Stock Exchange."""
+ description = """Securities and Stock Exchange and Introduction to Economics."""
  
 +++
