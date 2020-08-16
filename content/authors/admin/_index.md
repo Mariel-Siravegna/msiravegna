@@ -72,7 +72,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am Ph.D. candidate in Economics at Georgetown University with almost 5 years of work experience in the Research Division at the Central Bank of Chile.
+I am Ph.D. candidate in Economics at Georgetown University with more than 5 years of work experience in institutions as the Central Bank of Chile and The World Bank.
 
-Most of my work is to use empirical methods to look at an issue from multiple perspectives. 
+
 
