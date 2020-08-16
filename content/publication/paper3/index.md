@@ -16,7 +16,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Working Paper N°718. Central Bank of Chile [In English]*"
+publication: "*Working Paper N°718. Central Bank of Chile*"
 publication_short: ""
 
 abstract: 
