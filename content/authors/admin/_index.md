@@ -21,7 +21,7 @@ organizations:
 bio: My research interests include applied econometrics, gender and labor economics.
 
 interests:
-- Labor Markets
+- Labor Economics
 - Applied Econometrics
 - Gender
 
@@ -73,5 +73,5 @@ user_groups:
 - Visitors
 ---
 
-I am Ph.D. candidate in economics at Georgetown University with interest in applied econometrics, gender and labor markets. 
+I am Ph.D. candidate in economics at Georgetown University with interest in applied econometrics, gender and labor economics. 
 
