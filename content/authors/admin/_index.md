@@ -73,6 +73,6 @@ user_groups:
 - Visitors
 ---
 I am Ph.D. candidate in Economics at Georgetown University with almost 5 years of work experience in the Research Division at the Central Bank of Chile.
+
 I use empirical methods to look at an issue from multiple perspectives. 
-#In my dissertation, I conduct a study of gender inequality applying new methodologies with a clear policy relevance. 
-#Welcome to my personal website!
+
