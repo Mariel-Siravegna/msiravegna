@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   description = """Immigration Policies Affecting the High Skilled: Effects on Innovation and Productivity in the US Firms"""
 
 [[experience]]
-  title = "Short Term Consulting"
+  title = "Short Term Consultant"
   company = "World Bank Group"
   company_url = ""
   location = "Washington DC"
