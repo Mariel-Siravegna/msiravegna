@@ -8,10 +8,10 @@
   url = "#about"
   weight = 10
 
- [[main]]
-    name = "JMP"
-    url = "files/JMP.pdf"
-    weight = 20
+# [[main]]
+# name = "JMP"
+#    url = "files/JMP.pdf"
+#   weight = 20
 
 #[[main]]
 #  name = "Posts"
@@ -24,15 +24,15 @@
 #  weight = 30
 
 [[main]]
-  name = "Research"
-  url = "#publications"
-  weight = 40
-  
-[[main]]
   name = "Work experience"
   url = "#experience"
-  weight = 50
+  weight = 40
 
+[[main]]
+  name = "Research"
+  url = "#publications"
+  weight = 50
+  
 [[main]]
   name = "Teaching experience"
   url = "#teaching"
