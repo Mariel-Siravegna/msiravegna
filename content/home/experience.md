@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   location = "Santiago, Chile"
   date_start = "2010-01-01"
   date_end = "2014-08-04"
-  description = """Economic research aimed at producing research papers and technical notes. Analysis of international economic issues for the Board of Directors.Contributes to the Monetary Policy Report. Responsible for the “Discussion for International Topics” report"""
+  description = """Economic research aimed at producing research papers and technical notes. Analysis of international economic issues for the Board of Directors. Contributes to the Monetary Policy Report. Responsible for the “Discussion for International Topics” report"""
   
   [[experience]]
   title = "Instructor. Researcher and Teaching."
@@ -75,7 +75,7 @@ date_format = "Jan 2006"
   
    [[experience]]
   title = "Junior Economist"
-  company = "Institute of Economics and Finance, IEF"
+  company = "Institute of Economics and Finance, IEF National University of Cordoba"
   company_url = ""
   location = "Córdoba, Argentina"
   date_start = "2005-03-01"
