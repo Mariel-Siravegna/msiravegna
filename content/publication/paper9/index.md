@@ -15,14 +15,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Draft available upon request"
+publication: "*Draft available upon request*"
 publication_short: ""
 
 abstract: 
 
 # Summary. An optional shortened abstract.
-summary: This paper analyzes the gender pay gap across the wage distribution in Chile. To account for heterogeneity effects and selection into the labor force, I use a quantile regression technique and correct for sample selection using a copula-based methodology suggested by Arellano and Bonhomme (2017, Econometrica 85(1): 1-28).. This method is suited for an non-additive model when the quantile curves are not linear.
-The results suggest that gender wage gap after correcting for selection increases throughout all the distribution of wages, showing absence of sticky floor or glass ceiling effects. Next, I apply Machado and Mata (2005, Journal of applied Econometrics)'s decomposition method and find that the gender wage gap is explained mainly by differences in rewards to worker traits and not by differences in labor market characteristics. 
+summary: This paper analyzes the gender pay gap across the wage distribution in Chile. To account for heterogeneity effects and selection into the labor force, I use a quantile regression technique and correct for sample selection using a copula-based methodology suggested by Arellano and Bonhomme (2017, Econometrica 85(1): 1-28).. This method is suited for an non-additive model when the quantile curves are not linear. The results suggest that gender wage gap after correcting for selection increases throughout all the distribution of wages, showing absence of sticky floor or glass ceiling effects. Next, I apply Machado and Mata (2005, Journal of applied Econometrics)'s decomposition method and find that the gender wage gap is explained mainly by differences in rewards to worker traits and not by differences in labor market characteristics. 
 
 #tags:
 #- Commodity prices
