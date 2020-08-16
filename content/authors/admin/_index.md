@@ -18,11 +18,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include applied econometrics, and labor economics.
+bio: My research interests include applied econometrics, gender and labor economics.
 
 interests:
+- Labor Markets
+- Applied Econometrics
 - Gender
-- Labor markets
 
 education:
   courses:
@@ -72,5 +73,5 @@ user_groups:
 - Visitors
 ---
 
-I am Ph.D. candidate in economics at Georgetown University. 
+I am Ph.D. candidate in economics at Georgetown University with interest in applied econometrics, gender and labor markets. 
 
