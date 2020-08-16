@@ -72,7 +72,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am Ph.D. candidate in Economics at Georgetown University with more than 5 years of work experience in institutions such as the Central Bank of Chile, The World Bank and private sector.
+I am Ph.D. candidate in Economics at Georgetown University with more than 5 years of work experience in institutions such as the Central Bank of Chile, the World Bank and the private sector.
 
 
 
