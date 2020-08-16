@@ -1,5 +1,5 @@
 ---
-title: "The resilience of the emerging economies in the face of crisis scenarios"
+title: "The Resilience of the Emerging Economies in the face of Crisis Scenarios"
 authors:
 - Alfredo Pistelli
 - admin
