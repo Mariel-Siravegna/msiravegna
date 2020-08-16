@@ -16,7 +16,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**"
+publication: ""
 publication_short: ""
 
 abstract: 
@@ -33,8 +33,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
-url_code: ''
+url_pdf: https://www.erciomunoz.org/files/Draft_qregsel.pdf
+url_code: https://github.com/erciomunoz/qregsel
 url_dataset: ''
 url_poster: ''
 url_project: ''
