@@ -89,7 +89,7 @@ date_format = "Jan 2006"
   location = "Córdoba, Argentina"
   date_start = "2006-09-01"
   date_end = "2007-03-01"
-  description = """In charge of the stock market report"""
+  description = """Responsible for the stock market report"""
   
   
 +++
