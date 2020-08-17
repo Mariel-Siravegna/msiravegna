@@ -28,16 +28,16 @@ interests:
 education:
   courses:
   - course: Ph.D. in Economics
-    institution: Georgetown University. Washington, DC.
+    institution: Georgetown University, Washington DC.
     year: 2021 (expected)
   - course: M.A. in Economics
-    institution: Georgetown University. Washington, DC.
+    institution: Georgetown University, Washington DC.
     year: 2016
   - course: M.A. in Economics
-    institution: Ilades/Georgetown University. Santiago, Chile.
+    institution: Ilades/Georgetown University, Chile.
     year: 2009
   - course: B.A. in Economics
-    institution: Universidad Nacional de Córdoba. Argentina.
+    institution: Universidad Nacional de Córdoba, Argentina.
     year: 2006
 
 # Social/Academic Networking
