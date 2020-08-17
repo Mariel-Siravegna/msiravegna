@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Washington DC"
   date_start = "2017-06-01"
   date_end = "2018-06-01"
-  description = """Immigration Policies Affecting the High Skilled: Effects on Innovation and Productivity in the US Firms"""
+  description = """Immigration Policies Affecting the High Skilled: Effects on Innovation and Productivity in US Firms"""
 
 [[experience]]
   title = "Short Term Consultant"
@@ -33,10 +33,10 @@ date_format = "Jan 2006"
   location = "Washington DC"
   date_start = "2017-05-01"
   date_end = "2017-06-01"
-  description = """Systematic Country Diagnostic. Develop the statistical methodology and perform the prioritization exercise for Zambia"""
+  description = """Systematic Country Diagnostic. Developed the statistical methodology and performed the prioritization exercise for Zambia"""
 
 [[experience]]
-  title = "Economic and Financial Analyst at the Research Division"
+  title = "Economic and Financial Analyst in the Research Division"
   company = "Central Bank of Chile"
   company_url = ""
   location = "Santiago, Chile"
@@ -62,7 +62,7 @@ date_format = "Jan 2006"
   location = "Santiago, Chile"
   date_start = "2009-03-01"
   date_end = "2009-07-01"
-  description = """Report for the Chilean Ministry of Finance"""
+  description = """RA for a report for the Chilean Ministry of Finance"""
   
    [[experience]]
   title = "Research Assistant"
@@ -71,7 +71,7 @@ date_format = "Jan 2006"
   location = "Santiago, Chile"
   date_start = "2007-08-01"
   date_end = "2009-06-01"
-  description = """1) Growth and Social Progress in Chile, 2) Incentives and Efficiency of Public Spending"""
+  description = """RA for two reports: 1)Growth and Social Progress in Chile, 2) Incentives and Efficiency of Public Spending"""
   
    [[experience]]
   title = "Junior Economist"
