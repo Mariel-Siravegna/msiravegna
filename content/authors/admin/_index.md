@@ -28,16 +28,16 @@ interests:
 education:
   courses:
   - course: Ph.D. in Economics
-    institution: Georgetown University
+    institution: Georgetown University. Washington, DC.
     year: 2021 (expected)
   - course: M.A. in Economics
-    institution: Georgetown University
+    institution: Georgetown University. Washington, DC.
     year: 2016
   - course: M.A. in Economics
-    institution: Ilades/Georgetown University, Chile
+    institution: Ilades/Georgetown University. Santiago, Chile.
     year: 2009
   - course: B.A. in Economics
-    institution: Universidad Nacional de Córdoba, Argentina
+    institution: Universidad Nacional de Córdoba. Argentina.
     year: 2006
 
 # Social/Academic Networking
@@ -72,7 +72,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am Ph.D. candidate in Economics at Georgetown University with more than 5 years of work experience in institutions such as the Central Bank of Chile, the World Bank and the private sector.
-
+I am Ph.D. candidate in Economics at Georgetown University with more than 5 years of work experience in institutions such as the Central Bank of Chile, the World Bank and the private sector. 
 
 
