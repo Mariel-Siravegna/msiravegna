@@ -48,9 +48,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:mcs92@georgetown.edu  # For a direct email link, use "mailto:test@example.org".
- - icon: linkedin-in
-   icon_pack: linkedin-in
-   link: linkedin.com/in/mariel-siravegna-4b1b678b
+#- icon: linkedin-in
+#   icon_pack: linkedin-in
+#   link: linkedin.com/in/mariel-siravegna-4b1b678b
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
