@@ -71,7 +71,7 @@ date_format = "Jan 2006"
   location = "Santiago, Chile"
   date_start = "2007-08-01"
   date_end = "2009-06-01"
-  description = """RA for two reports: 1)Growth and Social Progress in Chile, 2) Incentives and Efficiency of Public Spending"""
+  description = """RA for two reports 1)Growth and Social Progress in Chile, 2) Incentives and Efficiency of Public Spending"""
   
    [[experience]]
   title = "Junior Economist"
