@@ -33,7 +33,7 @@ date_format = "Jan 2006"
  company_url = ""
  location = "Washington, DC"
  date_start = "2016-07-01"
- date_end = 
+ date_end = ""
  description = """Political Economy of Trade Policy, Market Design, Senior Seminar in Economics/Inter. Economics (x2), Introduction to Microeconomics, Introduction to Econometrics (x2) """
  
 [[experience]]
