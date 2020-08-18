@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   location = "Santiago, Chile"
   date_start = "2010-01-01"
   date_end = "2014-08-04"
-  description = """Economic research aimed at producing research papers and technical notes. Analysis of international economic issues for the Board of Directors. Contributes to the Monetary Policy Report. Responsible for the “Discussion of International Topics” report"""
+  description = """Economic research aimed at producing research papers and technical notes. Analysis of international economic issues for the Board of Directors. Contributed to the Monetary Policy Report. Responsible for the “Discussion of International Topics” report"""
   
   [[experience]]
   title = "Instructor and Researcher"
