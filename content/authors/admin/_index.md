@@ -37,7 +37,7 @@ education:
     institution: Ilades/Georgetown University, Chile.
     year: 2009
   - course: B.A. in Economics
-    institution: Universidad Nacional de Córdoba, Argentina.
+    institution: National University of Cordoba, Argentina.
     year: 2006
 
 # Social/Academic Networking
