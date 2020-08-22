@@ -56,7 +56,7 @@ date_format = "Jan 2006"
  
  [[experience]]
  title = "Teaching Assistant"
- company = "Universidad Nacional de Cordoba"
+ company = "National University of Cordoba"
  company_url = ""
  location = "Córdoba, Argentina"
  date_start = "2003-03-01"
