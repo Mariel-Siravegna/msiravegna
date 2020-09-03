@@ -17,7 +17,7 @@ publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
-publication_short: ""
+publication_short: "Draf available soon"
 
 abstract: 
 
