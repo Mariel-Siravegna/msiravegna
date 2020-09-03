@@ -19,10 +19,10 @@ publication_types: ["4"]
 publication: "*Monetary Policy Report, Central Bank of Chile (Box V.1. pag 17)*"
 publication_short: ""
 
-abstract: 
+abstract: Box V.1 in the Monetary Policy Report.
 
 # Summary. An optional shortened abstract.
-summary: Box V.1 in the Monetary Policy Report.
+summary: 
 
 #tags:
 #- Commodity prices
