@@ -20,10 +20,10 @@ publication_types: ["3"]
 publication: "*Working Paper N°665, Central Bank of Chile.[In Spanish]*"
 publication_short: ""
 
-abstract: 
+abstract: This paper provides evidence on the importance of distinguishing among episodes of capital flow reversals driven by stop or reversal of gross capital inflows (sudden stops) and those explained by large surges in gross capital outflows (sudden flights). Besides finding that they have different economic effects, we find that their probability of occurrence depends on different factors. For robustness, we consider alternative methodologies for identifying reversal episodes, which seems important given the differences in incidence between identification criteria. Overall, sudden flight episodes have less economic impact than sudden stop episodes. The probability of occurrence of a sudden stop in capital inflows increases in countries that face negative external shocks, capital bonanzas or high dependence on external financing. Meanwhile, unlike sudden stop episodes, we did not find robust and statistically significant risk factors in the case of sudden flight episodes.
 
 # Summary. An optional shortened abstract.
-summary: This paper provides evidence on the importance of distinguishing among episodes of capital flow reversals driven by stop or reversal of gross capital inflows (sudden stops) and those explained by large surges in gross capital outflows (sudden flights). Besides finding that they have different economic effects, we find that their probability of occurrence depends on different factors. For robustness, we consider alternative methodologies for identifying reversal episodes, which seems important given the differences in incidence between identification criteria. Overall, sudden flight episodes have less economic impact than sudden stop episodes. The probability of occurrence of a sudden stop in capital inflows increases in countries that face negative external shocks, capital bonanzas or high dependence on external financing. Meanwhile, unlike sudden stop episodes, we did not find robust and statistically significant risk factors in the case of sudden flight episodes.
+summary: 
 
 #tags:
 #- Commodity prices
