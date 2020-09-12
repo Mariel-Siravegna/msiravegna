@@ -19,8 +19,7 @@ publication_types: ["1"]
 publication: ""
 publication_short: ""
 
-abstract: This article describes qregsel, a Stata module to implement a copula-based sample selection correction for quantile regression recently proposed by Arellano and Bonhomme (2017). The command allows the user to model selection in quantile regressions using either a Gaussian or an one-dimensional Frank copula. We illustrate the use of qregsel with two examples. First, we apply the method to the data employed in the Stata base reference manual for the heckman command. Second, we replicate the empirical example done in the original paper using data for the UK for the period 1978-2000.
-
+abstract: This article describes qregsel, a Stata module to implement a copula-based sample selection correction for quantile regression recently proposed by Arellano and Bonhomme (2017, Econometrica 85(1), pp1-28). The command allows the user to model selection in quantile regressions using either a Gaussian or an one-dimensional Frank copula. We illustrate the use of qregsel with two examples. First, we apply the method to the fictional data set employed in the Stata base reference manual for the heckman command. Second, we replicate part of the empirical application of the original paper using data for the UK that covers the period 1978-2000 to compare wages of males and females at different quantiles.
 
 # Summary. An optional shortened abstract.
 summary: 
