@@ -13,11 +13,11 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["4"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: "Draf available soon"
+publication: "*Draf available soon*"
+publication_short: ""
 
 abstract: Using data from seven local elections (1992-2016) in all the 345 municipalities of Chile, we study whether the political success of women running for mayor has effects on subsequent elections in terms of women participation. We apply a regression discontinuity design to estimate the causal effect using close mixed-gender races.
 
