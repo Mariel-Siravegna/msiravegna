@@ -61,6 +61,6 @@ date_format = "Jan 2006"
  location = "Córdoba, Argentina"
  date_start = "2003-03-01"
  date_end = "2006-07-01"
- description = """Securities and Stock Exchange and Introduction to Economics."""
+ description = """Securities and Stock Exchange and Introduction to Economics"""
  
 +++
