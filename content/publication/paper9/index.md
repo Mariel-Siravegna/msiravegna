@@ -1,5 +1,5 @@
 ---
-title: "The Gender Gap across the Wage Distribution in Chile: An Application of Copula-Based Methods"
+title: "The Gender Gap across the Wage Distribution in Chile: An Application of Copula\-Based Methods"
 authors:
 - admin
 date: "2020-01-01T00:00:00Z"
