@@ -1,5 +1,5 @@
 ---
-title: "The Gender Gap across the Wage Distribution in Chile: An Application of Copula Based Methods"
+title: "The Gender Gap across the Wage Distribution in Chile: An Application of Copula-Based Methods"
 authors:
 - admin
 date: "2020-01-01T00:00:00Z"
@@ -12,13 +12,13 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = JMP; 8 = Patent
-#publication_types: ["7"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Draft available upon request*"
 publication_short: ""
 
-abstract: This paper analyzes the gender pay gap in Chile considering two main issues: heterogeneity across the wage distribution and selection into the labor force. I apply a quantile regression technique and correct for sample selection using a copula-based methodology. My results highlight how important it is for gender gaps to account for heterogeneous effects and selective participation: if men and women's rate of employment were equal, the gap would be approximately 30 percentage points larger at all quantiles. I also find that the gender wage gap oscillates between 25 and 35 log points at the bottom half of the hourly wage distribution but increases to approximately 50 log points in the upper quantiles evidencing a *glass ceiling* effect. Finally, I decompose the gender pay gap into *structural* and *composition* effects, finding that the gap is explained mainly by differences in rewards to observable labor market characteristics and not by differences in the distribution of those characteristics.
+abstract: This paper analyzes the gender pay gap in Chile considering two main issues: heterogeneity across the wage distribution and selection into the labor force. I apply a quantile regression technique and correct for sample selection using a copula-based methodology. My results highlight how important it is for gender gaps to account for heterogeneous effects and selective participation: if men and women's rate of employment were equal, the gap would be approximately 30 percentage points larger at all quantiles. I also find that the gender wage gap oscillates between 25 and 35 log points at the bottom half of the hourly wage distribution but increases to approximately 50 log points in the upper quantiles evidencing a glass ceiling effect. Finally, I decompose the gender pay gap into structural and composition effects, finding that the gap is explained mainly by differences in rewards to observable labor market characteristics and not by differences in the distribution of those characteristics.
 
 
 # Summary. An optional shortened abstract.
