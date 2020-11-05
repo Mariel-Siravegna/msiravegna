@@ -1,5 +1,5 @@
 ---
-title: "The Gender Gap across the Wage Distribution: An Application of New Methods to Chile"
+title: "The Gender Gap across the Wage Distribution in Chile: An Application of Copula-Based Methods"
 authors:
 - admin
 date: "2020-01-01T00:00:00Z"
@@ -11,8 +11,8 @@ publishDate: "2017-01-01T00:00:00Z"
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+# 7 = JMP; 8 = Patent
+publication_types: ["7"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Draft available upon request*"
