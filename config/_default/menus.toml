@@ -8,10 +8,10 @@
   url = "#about"
   weight = 10
 
-# [[main]]
-# name = "JMP"
-#    url = "files/JMP.pdf"
-#   weight = 20
+ [[main]]
+   name = "JMP"
+   url = "files/JMP.pdf"
+   weight = 20
 
 #[[main]]
 #  name = "Posts"
