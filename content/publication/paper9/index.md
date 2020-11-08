@@ -15,7 +15,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Draft available upon request*"
+publication: "*Job Market Paper*"
 publication_short: ""
 
 abstract: In this paper, I analyze the gender pay gap in Chile by considering two main issues heterogeneity across wage distribution and selection into the labor force. I apply a quantile regression technique and correct for sample selection using a copula-based methodology. My results highlight the importance of heterogeneous effects and selective participation in gender pay gaps. If men’s and women’s rates of employment were equal, the gap would be approximately 30 percentage points larger in all quantiles. My analysis reveals that the gender wage gap oscillates between 25 and 35 log points at the bottom half of the hourly wage distribution but increases to approximately 50 log points in the upper quantiles, evidencing a glass ceiling effect. Finally, I decompose the gender pay gap into structural and composition effects, concluding that the gap is explained mainly by differences in rewards for observable labor market characteristics and not by differences in the distribution of those characteristics.
@@ -33,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: 'https://www.marielsiravegna.org/files/JMP_Siravegna.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
