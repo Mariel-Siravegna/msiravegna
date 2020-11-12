@@ -18,12 +18,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include applied econometrics, gender and labor economics.
+bio: I am a Ph.D. candidate at the Georgetown University, graduating in June 2021. My fields of specialization are applied microeconomics and quantitative methods.
 
 interests:
 - Labor Economics
-- Applied Econometrics
-- Gender Studies
+- Quantitative Methods
+- Applied Microeconomics
 
 education:
   courses:
