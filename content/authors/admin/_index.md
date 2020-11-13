@@ -18,11 +18,11 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Ph.D. candidate at the Georgetown University, graduating in June 2021. My fields of specialization are labor economics and applied microeconomics.
+bio: I am a Ph.D. candidate at the Georgetown University, graduating in June 2021. My fields of specialization are labor economics and applied microeconomics/econometrics.
 
 interests:
-- Labor Economics
-- Applied Microeconomics
+- Labor economics
+- Applied microeconomics/econometrics
 
 education:
   courses:
