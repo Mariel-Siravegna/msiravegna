@@ -22,7 +22,8 @@ bio: I am a Ph.D. candidate at the Georgetown University, graduating in June 202
 
 interests:
 - Labor economics
-- Applied microeconomics/econometrics
+- Applied microeconomics
+- Econometrics
 
 education:
   courses:
