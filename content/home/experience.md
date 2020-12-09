@@ -17,6 +17,17 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Short Term Consultant"
+  company = "World Bank Group"
+  company_url = ""
+  location = "Washington DC"
+  date_start = "2020-12-15"
+  date_end = 
+  description = """Gender Assessment for Dominican Republic Report. Develop the statistical methodology and perform the prioritization exercise to benchmark and prioritize the main gender gaps faced by Dominican Republic according to the country’s performance globally and against a group of peers.
+"""
+
 [[experience]]
   title = "Research Assistant"
   company = "National Science Foundation funded project"
