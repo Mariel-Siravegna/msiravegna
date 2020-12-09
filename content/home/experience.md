@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Washington DC"
   date_start = "2020-12-15"
-  date_end = " "
+  date_end = ""
   description = """Gender Assessment for Dominican Republic Report. My duty in this report is to identify the main gender gaps that the country faces across different domains, contributing to better inform policy design."""
 
 [[experience]]
