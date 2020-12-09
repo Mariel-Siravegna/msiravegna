@@ -25,8 +25,7 @@ date_format = "Jan 2006"
   location = "Washington DC"
   date_start = "2020-12-15"
   date_end = " "
-  description = """Gender Assessment for Dominican Republic Report. Develop the statistical methodology and perform the prioritization exercise to benchmark and prioritize the main gender gaps faced by Dominican Republic according to the country’s performance globally and against a group of peers.
-"""
+  description = """Gender Assessment for Dominican Republic Report. My duty in this report is to identify the main gender gaps that the country faces across different domains, contributing to better inform policy design."""
 
 [[experience]]
   title = "Research Assistant"
