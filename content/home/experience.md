@@ -52,7 +52,7 @@ date_format = "Jan 2006"
   location = "Santiago, Chile"
   date_start = "2010-01-01"
   date_end = "2014-08-04"
-  description = """Economic research aimed at producing research papers and technical notes"""
+  description = """At the Central Bank my main duties were i) carry out research about International Macroeconomic issues relevant to the Chilean economy, ii) provide evidence and technical support in the investigations and reports requested by the International Manager's Office. Working for the Chilean Central Bank has allowed me to strengthen and expand my knowledge in international macroeconomics and applied econometrics (panel and time series methodologies applied to macroeconomics issues as forecasting or impact, for example cointergation, error correction models, vector autoregression analysis, Kalman filter, dynamic ordinary least squares. Also, I wrote many documents of internal discussion on topics of inflation, fiscal position, exchange rate, capital flow reversal and commodity prices. Also, I had presented my research in several international conferences. """
   
   [[experience]]
   title = "Instructor and Researcher"
@@ -61,7 +61,9 @@ date_format = "Jan 2006"
   location = "Santiago, Chile"
   date_start = "2009-08-01"
   date_end = "2009-12-30"
-  description = """Instructor for 1) Macroeconomics, 2) Introduction to Economics"""
+  description = """Instructor for 1) Macroeconomics, 2) Introduction to Economics. While I was at Santo Tomas University (August to December
+2009) I published my thesis as a working paper at Ilades/Georgetown University Working Papers. Also, I worked with two co-authors (G. Larrain and G. Yañez) in the working
+paper about the integration of financial markets in Latin-American, which is published in Revue D Economie Financiere."""
   
   
   
@@ -90,7 +92,7 @@ date_format = "Jan 2006"
   location = "Córdoba, Argentina"
   date_start = "2005-03-01"
   date_end = "2007-07-01"
-  description = """Economics Research"""
+  description = """Economics Research. My duties were to write technical reports and conduct research about natural resources economics issues"""
  
   [[experience]]
   title = "Junior Economist"
@@ -99,7 +101,7 @@ date_format = "Jan 2006"
   location = "Córdoba, Argentina"
   date_start = "2006-09-01"
   date_end = "2007-03-01"
-  description = """Responsible for the stock market report"""
+  description = """Responsible for the stock market report. My duties were to write technical reports about capital market economics issues"""
   
   
 +++
