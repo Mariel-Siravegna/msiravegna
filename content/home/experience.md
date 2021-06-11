@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   location = "Washington DC"
   date_start = "2020-12-15"
   date_end = ""
-  description = """Gender Assessment for Dominican Republic Report. My responsability in this report is to identify the main gender gaps that the country faces across different domains, contributing to better inform policy design."""
+  description = """Gender Assessment for Dominican Republic Report. My responsibility in this report are 1) identify the main gender gaps that the country faces across different domains, contributing to better inform policy design, 2) decompose the gender wage gap into two components, i) the size of the gap that can be explained by observable characteristics and ii) the size of the gap that responds to the compensation for these characteristics, 3) determine if the gender wage gap was amplified by the ongoing crisis and what factors possibly led to that exacerbation . """
 
 [[experience]]
   title = "Research Assistant"
@@ -52,7 +52,7 @@ date_format = "Jan 2006"
   location = "Santiago, Chile"
   date_start = "2010-01-01"
   date_end = "2014-08-04"
-  description = """At the Central Bank my main duties were i) carry out research about International Macroeconomic issues relevant to the Chilean economy, ii) provide evidence and technical support in the investigations and reports requested by the International Manager's Office. Working for the Chilean Central Bank has allowed me to strengthen and expand my knowledge in international macroeconomics and applied econometrics (panel and time series methodologies applied to macroeconomics issues as forecasting or impact, for example cointegration, error correction models, vector autoregression analysis, Kalman filter. Also, I wrote many documents for internal discussion on topics of inflation, fiscal position, exchange rate, capital flow reversal and commodity prices. Also, I had presented my research in several international conferences. """
+  description = """At the Central Bank my main duties were i) carry out research about International Macroeconomic issues relevant to the Chilean economy, ii) provide evidence and technical support in the investigations and reports requested by the International Manager's Office. """
   
   [[experience]]
   title = "Instructor and Researcher"
@@ -62,7 +62,7 @@ date_format = "Jan 2006"
   date_start = "2009-08-01"
   date_end = "2009-12-30"
   description = """Instructor for 1) Macroeconomics, 2) Introduction to Economics. While I was at Santo Tomas University (August to December
-2009) I published my thesis as a working paper at Ilades/Georgetown University Working Papers. Also, I worked with two co-authors (G. Larrain and G. Yañez) in the working
+2009) I published my thesis as a working paper at Ilades/Georgetown University Working Papers. Also, I worked with two co-authors (G. Larrain and G. Yañez) in a
 paper about the integration of financial markets in Latin-American, which is published in Revue D Economie Financiere."""
   
   
