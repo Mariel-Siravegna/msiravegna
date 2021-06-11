@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   location = "Washington DC"
   date_start = "2020-12-15"
   date_end = ""
-  description = """Gender Assessment for Dominican Republic Report. My responsibility in this report are 1) identify the main gender gaps that the country faces across different domains, contributing to better inform policy design, 2) decompose the gender wage gap into two components, i) the size of the gap that can be explained by observable characteristics and ii) the size of the gap that responds to the compensation for these characteristics, 3) determine if the gender wage gap was amplified by the ongoing crisis and what factors possibly led to that exacerbation . """
+  description = """Gender Assessment for Dominican Republic Report. My responsibility in this report are 1) identify the main gender gaps that the country faces across different domains, contributing to better inform policy design, 2) decompose the gender wage gap into two components, i) the size of the gap that can be explained by observable characteristics and ii) the size of the gap that responds to the compensation for these characteristics, 3) determine if the gender wage gap was amplified by the ongoing crisis and what factors possibly led to that exacerbation. """
 
 [[experience]]
   title = "Research Assistant"
@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   location = "Washington DC"
   date_start = "2017-06-01"
   date_end = "2018-06-01"
-  description = """Immigration Policies Affecting the High Skilled: Effects on Innovation and Productivity in US Firms"""
+  description = """Immigration Policies Affecting the High Skilled: Effects on Innovation and Productivity in US Firms."""
 
 [[experience]]
   title = "Short Term Consultant"
@@ -43,7 +43,7 @@ date_format = "Jan 2006"
   location = "Washington DC"
   date_start = "2017-05-01"
   date_end = "2017-06-01"
-  description = """Systematic Country Diagnostic. Developed the statistical methodology and performed the prioritization exercise for Zambia"""
+  description = """Systematic Country Diagnostic. Developed the statistical methodology and performed the prioritization exercise for Zambia."""
 
 [[experience]]
   title = "Economic and Financial Analyst in the Research Division"
@@ -83,7 +83,7 @@ paper about the integration of financial markets in Latin-American, which is pub
   location = "Santiago, Chile"
   date_start = "2007-08-01"
   date_end = "2009-06-01"
-  description = """RA for two reports 1) Growth and Social Progress in Chile, 2) Incentives and Efficiency of Public Spending"""
+  description = """RA for two reports 1) Growth and Social Progress in Chile, 2) Incentives and Efficiency of Public Spending."""
   
    [[experience]]
   title = "Junior Economist"
@@ -92,7 +92,7 @@ paper about the integration of financial markets in Latin-American, which is pub
   location = "Córdoba, Argentina"
   date_start = "2005-03-01"
   date_end = "2007-07-01"
-  description = """Economics Research. My duties were to write technical reports and conduct research about natural resources economics issues"""
+  description = """Economics Research. My duties were to write technical reports and conduct research about natural resources economics issues."""
  
   [[experience]]
   title = "Junior Economist"
@@ -101,7 +101,7 @@ paper about the integration of financial markets in Latin-American, which is pub
   location = "Córdoba, Argentina"
   date_start = "2006-09-01"
   date_end = "2007-03-01"
-  description = """Responsible for the stock market report. My duties were to write technical reports about capital market economics issues"""
+  description = """Responsible for the stock market report. My duties were to write technical reports about capital market economics issues."""
   
   
 +++
