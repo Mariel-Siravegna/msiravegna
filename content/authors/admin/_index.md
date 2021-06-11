@@ -29,7 +29,7 @@ education:
   courses:
   - course: Ph.D. in Economics
     institution: Georgetown University, Washington DC.
-    year: 2021 (expected)
+    year: 2022 (expected)
   - course: M.A. in Economics
     institution: Georgetown University, Washington DC.
     year: 2016
