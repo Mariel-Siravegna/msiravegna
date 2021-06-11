@@ -18,11 +18,11 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Ph.D. candidate at the Georgetown University, graduating in June 2021. My fields of specialization are labor economics and applied econometrics.
+bio: I am a Ph.D. candidate at the Georgetown University. My fields of specialization are labor economics and applied microeconomics.
 
 interests:
-- Labor economics
-- Applied Econometrics
+- Labor Economics
+- Applied Microeconomics
 
 
 education:
@@ -72,5 +72,13 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a Ph.D. candidate in Economics at Georgetown University with more than 7 years of experience in institutions such as the Central Bank of Chile, the World Bank and academia.  
+Welcome to my website! 
+My name is Mariel and I am a PhD candidate at Georgetown University and a consultant at the World Bank.
+
+My main areas of research are labor economics and applied microeconomics. I have published several articles in peer reviewed journals and policy reports and presented my work at multiple international conferences. Additionally, throughout my work, I have processed and analyzed several complex longitudinal surveys, macroeconomic data from several countries and big administrative data sets.  
+
+I use Stata extensively, and as part of it, I have programmed (co-authored) a command that implements a copula-based method to correct for sample selection in quantile regressions. Also, we wrote a short applied paper demonstrating the use of the command which is forthcoming at the Stata Journal. At Georgetown University, I was a Stata tutor for the Department of Economics and also part of the Women Coders club. For many years, I have been an instructor and teaching assistant for multiple econometric courses at the undergraduate and graduate level. 
+
+I did my B.A. in Economics at National University of Cordoba (ranked 2/331) and during the last years of my undergraduate studies I had my first experience doing economic research at the Institute of Economics and Finance at the National University of Cordoba. Then I moved to Chile to pursue a Master in Economics at ILADES/Georgetown University (ranked 2/14). After I finished the MAE program, I started working as an economic researcher and instructor at Santo Tomas University, Chile. Then, I was offered a research position as an economist at the Central Bank of Chile, and worked there for almost 5 years.  
+
 
