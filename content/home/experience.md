@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Washington DC"
   date_start = "2020-12-15"
-  date_end = ""
+  date_end = "2021-06-30"
   description = """Gender Assessment for Dominican Republic Report. My responsibilies in this report are 1) identify the main gender gaps that the country faces across different domains, contributing to better inform policy design, 2) decompose the gender wage gap into two components, i) the size of the gap that can be explained by observable characteristics and ii) the size of the gap that responds to the compensation for these characteristics, 3) determine if the gender wage gap was amplified by the ongoing crisis and what factors possibly led to that exacerbation. """
 
 [[experience]]
