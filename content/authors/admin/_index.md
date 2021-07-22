@@ -73,7 +73,7 @@ user_groups:
 - Visitors
 ---
 Welcome to my website! 
-My name is Mariel and I am a PhD candidate at Georgetown University and a consultant at the World Bank.
+My name is Mariel and I am a PhD candidate at Georgetown University.
 
 My main areas of research are labor economics and applied microeconomics. I have published several articles in peer reviewed journals and policy reports and presented my work at multiple international conferences. Additionally, throughout my work, I have processed and analyzed several complex longitudinal surveys, macroeconomic data from several countries and big administrative data sets.  
 
