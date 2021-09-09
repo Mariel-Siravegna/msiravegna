@@ -75,7 +75,6 @@ user_groups:
 Welcome to my website! 
 My name is Mariel and I am a PhD candidate at Georgetown University.
 
-Welcome to my website! My name is Mariel, and I am a Ph.D. candidate at Georgetown University.
 My main areas of research are labor economics and applied microeconomics. I have published several articles in peer-reviewed journals and policy reports and presented my work at multiple international conferences. Additionally, I have processed and analyzed several complex longitudinal surveys, macroeconomic data from several countries, and big administrative data sets throughout my work.  
 
 I use Stata extensively, and as part of it, I have programmed (co-authored) a command that implements a copula-based method to correct sample selection in quantile regressions. Also, we wrote a short applied paper demonstrating the use of the command, which is forthcoming at the Stata Journal. At Georgetown University, I was a Stata tutor for the Department of Economics and part of the Women Coders club. I have been an instructor and teaching assistant for multiple econometric courses at the undergraduate and graduate levels for many years. 
