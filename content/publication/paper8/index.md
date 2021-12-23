@@ -3,7 +3,7 @@ title: "Implementing Quantile Selection Models in Stata"
 authors:
 - Ercio Munoz
 - admin
-date: "2021-01-01T00:00:00Z"
+date: "2021-05-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
