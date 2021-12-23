@@ -18,11 +18,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Ph.D. candidate at the Georgetown University. My fields of specialization are labor economics and applied microeconomics.
+bio: I am a Ph.D. candidate at the Georgetown University. 
 
 interests:
 - Labor Economics
 - Applied Microeconomics
+- Development Economics
 
 
 education:
@@ -73,9 +74,9 @@ user_groups:
 - Visitors
 ---
 Welcome to my website! 
-My name is Mariel, and I am an applied microeconomist with a Ph.D. from the Department of Economics at Georgetown University.
+My name is Mariel, and I am an Economist with a Ph.D. from the Department of Economics at Georgetown University.
 
-My research interest are broad, and I have worked on diverse set of topics. I have published several articles in peer-reviewed journals and policy reports and presented my work at multiple international conferences. Additionally, I have processed and analyzed several complex longitudinal surveys, macroeconomic data from several countries, and big administrative data sets throughout my work.  
+My research interest are broad, and I have worked on diverse set of topics such as earning inequality, intergenerational mobility and empirical methods. I have published several articles in peer-reviewed journals and policy reports and presented my work at multiple international conferences. Additionally, I have processed and analyzed several complex longitudinal surveys, macroeconomic data from several countries, and big administrative data sets throughout my work.  
 
 I use Stata extensively, and as part of it, I have programmed a command that implements a copula-based method to correct sample selection in quantile regressions that was published in its peer-reviewed journal. At Georgetown University, I was a Stata tutor for the Department of Economics and part of the Women Coders club. I have been an instructor and teaching assistant for multiple econometric courses at the undergraduate and graduate levels for many years. 
 
