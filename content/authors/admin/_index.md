@@ -73,11 +73,11 @@ user_groups:
 - Visitors
 ---
 Welcome to my website! 
-My name is Mariel, and I am a PhD candidate at Georgetown University.
+My name is Mariel, and I am an applied microeconomist with a Ph.D. from the Department of Economics at Georgetown University.
 
-My main areas of research are labor economics and applied microeconomics. I have published several articles in peer-reviewed journals and policy reports and presented my work at multiple international conferences. Additionally, I have processed and analyzed several complex longitudinal surveys, macroeconomic data from several countries, and big administrative data sets throughout my work.  
+My research interest are broad, and I have worked on diverse set of topics. I have published several articles in peer-reviewed journals and policy reports and presented my work at multiple international conferences. Additionally, I have processed and analyzed several complex longitudinal surveys, macroeconomic data from several countries, and big administrative data sets throughout my work.  
 
-I use Stata extensively, and as part of it, I have programmed (co-authored) a command that implements a copula-based method to correct sample selection in quantile regressions. Also, we wrote a short applied paper demonstrating the use of the command, which is forthcoming at the Stata Journal. At Georgetown University, I was a Stata tutor for the Department of Economics and part of the Women Coders club. I have been an instructor and teaching assistant for multiple econometric courses at the undergraduate and graduate levels for many years. 
+I use Stata extensively, and as part of it, I have programmed a command that implements a copula-based method to correct sample selection in quantile regressions that was published in its peer-reviewed journal. At Georgetown University, I was a Stata tutor for the Department of Economics and part of the Women Coders club. I have been an instructor and teaching assistant for multiple econometric courses at the undergraduate and graduate levels for many years. 
 
 I did my B.A. in Economics at National University of Cordoba (ranked 2/331). During the last years of my undergraduate studies, I had my first experience doing economic research at the Institute of Economics and Finance at the National University of Cordoba. Then I moved to Chile to pursue a Master in Economics at ILADES/Georgetown University (ranked 2/14). After finishing the MAE program, I started working as an economic researcher and instructor at Santo Tomas University, Chile. Then, I was offered a research position as an economist at the Central Bank of Chile and worked there for almost five years.  
 
