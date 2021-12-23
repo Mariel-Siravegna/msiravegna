@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ph.D. in Economics at the Georgetown University. 
+bio: Ph.D. in Economics. 
 
 interests:
 - Labor Economics
