@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Candidate in Economics
+role: Ph.D. in Economics
 
 # Organizations/Affiliations
 organizations:
@@ -29,7 +29,7 @@ education:
   courses:
   - course: Ph.D. in Economics
     institution: Georgetown University, Washington DC.
-    year: 2022 (expected)
+    year: 2021
   - course: M.A. in Economics
     institution: Georgetown University, Washington DC.
     year: 2016
