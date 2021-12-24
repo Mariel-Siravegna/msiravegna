@@ -41,9 +41,18 @@ date_format = "Jan 2006"
  company = "Santo Tomás University"
  company_url = ""
  location = "Santiago, Chile"
- date_start = "2010-07-01"
+ date_start = "2010-01-01"
  date_end = "2012-12-01"
  description = """Econometrics"""  
+ 
+ [[experience]]
+ title = "Instructor"
+ company = "Santo Tomás University"
+ company_url = ""
+ location = "Santiago, Chile"
+ date_start = "2009-07-01"
+ date_end = "2009-12-01"
+ description = """Macroeconomics (x2) and Introduction to Economics"""  
  
 [[experience]]
  title = "Teaching Assistant"
