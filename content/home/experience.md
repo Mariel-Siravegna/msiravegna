@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company = "World Bank Group"
   company_url = ""
   location = "Washington DC"
-  date_start = "2021-1-1"
+  date_start = "2022-02-01"
   date_end = "2022-06-30"
   description = """Promoting Gender Equality and Women's Labor Force Participation in Mexico """
 
