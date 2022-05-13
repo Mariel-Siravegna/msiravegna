@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   location = "Washington DC"
   date_start = "2022-02-01"
   date_end = "2022-06-30"
-  description = """Promoting Gender Equality and Women's Labor Force Participation in Mexico """
+  description = """MX Promoting Gender Equality and Women's Labor Force Participation  ●	Lead research on gender and labor issues for policy briefs to promote gender equality in Mexico. ●	Co-author (in progress) of research paper to inform how teleworking has impacted women's labor force participation. ●	Review literature, clean data source, design research methodology, prepare a technical paper with the research's resulting analysis and dissemination/presentation, and write a blog."""
 
 [[experience]]
   title = "Short Term Consultant"
@@ -35,7 +35,7 @@ date_format = "Jan 2006"
   location = "Washington DC"
   date_start = "2020-12-15"
   date_end = "2021-06-30"
-  description = """Gender Assessment for Dominican Republic Report. My responsibilies in this report are 1) identify the main gender gaps that the country faces across different domains, contributing to better inform policy design, 2) decompose the gender wage gap into two components, i) the size of the gap that can be explained by observable characteristics and ii) the size of the gap that responds to the compensation for these characteristics, 3) determine if the gender wage gap was amplified by the ongoing crisis and what factors possibly led to that exacerbation. """
+  description = """●	Supported the Government of the Dominican Republic to advance its development goal of inclusion by (i) uncovering and prioritizing existing gender gaps that prevent advancing that goal and (ii) understanding the drivers of those gaps to bolster the effectiveness of policies designed to tackle them. ●	Measured the gap in earnings using the Encuesta Nacional Continua de Fuerza de Trabajo (ENCFT) and decomposed the gender wage gap into structural and composition effects to identify what drives the existing difference in payment between male and female workers in the Dominican Republic."""
 
 [[experience]]
   title = "Research Assistant"
@@ -44,7 +44,7 @@ date_format = "Jan 2006"
   location = "Washington DC"
   date_start = "2017-06-01"
   date_end = "2018-06-01"
-  description = """Immigration Policies Affecting the High Skilled: Effects on Innovation and Productivity in US Firms."""
+  description = """Immigration Policies Affecting the High Skilled: Effects on Innovation and Productivity in US Firms.●	Provided research and technical assistance to quantify the effects of highly skilled foreign workers on the economic activity of firms and the labor-market outcome of U.S. workers. ●	Merged and cleaned different sources of data: Labor Certification Application (H-1B visas), Compustat, and lobbying expenditure data from the Center for Responsive Politics."""
 
 [[experience]]
   title = "Short Term Consultant"
@@ -53,7 +53,7 @@ date_format = "Jan 2006"
   location = "Washington DC"
   date_start = "2017-05-01"
   date_end = "2017-06-01"
-  description = """Systematic Country Diagnostic. Developed the statistical methodology and performed the prioritization exercise for Zambia."""
+  description = """Systematic Country Diagnostic for Zambia ●	Identified the main gender gaps the country faces across different domains (climate change, agriculture, telecommunication, water, gender, land, jobs, mining, transport, energy, etc.), contributing to a better-informed policy design. ●	Developed the diagnostic's statistical methodology, performed the prioritization exercise to define Zambia's most urgent policy areas, and supported the report's preparation.●	Advise indicators to capture diverse focal points."""
 
 [[experience]]
   title = "Economic and Financial Analyst in the Research Division"
@@ -62,7 +62,7 @@ date_format = "Jan 2006"
   location = "Santiago, Chile"
   date_start = "2010-01-01"
   date_end = "2014-08-04"
-  description = """At the Central Bank my main duties were i) carry out research about International Macroeconomic issues relevant to the Chilean economy, ii) provide evidence and technical support in the investigations and reports requested by the International Manager's Office. """
+  description = """Research on international macroeconomics topics. ●	Generated technical notes per request of the Board of Directors that were input for the Monetary Policy Report. ●	Formulated and conducted original, high-quality policy-relevant research projects and disseminated results. ●	Promoted cooperative research initiatives with other organizations and academic institutions. ●	Engaged in internal and external policy dialogue with Government authorities to ensure that research contributes to broader development goals. """
   
   [[experience]]
   title = "Instructor and Researcher"
@@ -84,7 +84,7 @@ paper about the integration of financial markets in Latin-American, which is pub
   location = "Santiago, Chile"
   date_start = "2009-03-01"
   date_end = "2009-07-01"
-  description = """RA for a report for the Chilean Ministry of Finance"""
+  description = """Research support for report for the Chilean Minister of Finance Andres Velasco "How the IMF can mitigate the extension of the crisis to emerging economies"""
   
    [[experience]]
   title = "Research Assistant"
@@ -93,7 +93,7 @@ paper about the integration of financial markets in Latin-American, which is pub
   location = "Santiago, Chile"
   date_start = "2007-08-01"
   date_end = "2009-06-01"
-  description = """RA for two reports 1) Growth and Social Progress in Chile, 2) Incentives and Efficiency of Public Spending."""
+  description = """Research support for two working papers, "Growth and Social Progress in Chile" and "Incentives and Efficiency of Public Spending."""
   
    [[experience]]
   title = "Junior Economist"
@@ -102,7 +102,7 @@ paper about the integration of financial markets in Latin-American, which is pub
   location = "Córdoba, Argentina"
   date_start = "2005-03-01"
   date_end = "2007-07-01"
-  description = """Economics Research. My duties were to write technical reports and conduct research about natural resources economics issues."""
+  description = """Research Assistant for projects related to natural resources"""
  
   [[experience]]
   title = "Junior Economist"
