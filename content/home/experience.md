@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   location = "Washington DC"
   date_start = "2022-02-01"
   date_end = "2022-06-30"
-  description = """MX Promoting Gender Equality and Women's Labor Force Participation  ●	Lead research on gender and labor issues for policy briefs to promote gender equality in Mexico. ●	Co-author (in progress) of research paper to inform how teleworking has impacted women's labor force participation. ●	Review literature, clean data source, design research methodology, prepare a technical paper with the research's resulting analysis and dissemination/presentation, and write a blog."""
+  description = """Mexico Fiscal Microsimulation Model (MEXSIM). ●	Use the MEXSIM to measure the distributional impact of fiscal policy in Mexico.●	Update the existing fiscal microsimulation model. ●	Undertake microsimulations of alternative reform measures.                                                                 MX Promoting Gender Equality and Women's Labor Force Participation  ●	Lead research on gender and labor issues for policy briefs to promote gender equality in Mexico. ●	Co-author (in progress) of research paper to inform how teleworking has impacted women's labor force participation. ●	Review literature, clean data source, design research methodology, prepare a technical paper with the research's resulting analysis and dissemination/presentation, and write a blog."""
 
 [[experience]]
   title = "Short Term Consultant"
