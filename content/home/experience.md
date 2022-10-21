@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   location = "Washington DC"
   date_start = "2022-06-01"
   date_end = "2023-06-30"
-  description = """Mexico Fiscal Microsimulation Model (MEXSIM). ●	Use the MEXSIM to measure the distributional impact of fiscal policy in Mexico.●	Update the existing fiscal microsimulation model. ●	Undertake microsimulations of alternative reform measures."""
+  description = """● Preparing CN on MX Core Poverty & Equity Programmatic and MX Poverty Assessment ● Lead implementation of the Mexico Fiscal Microsimulation Model (MEXSIM) and undertake microsimulations of alternative reform measures proposed by the Ministry of Finance ● Prepared MOP and PEB for Fall 2022 using MEXSIMLite Model ● Management and analysis of data sources (such as datalibweb, WB-SEDLAC) for Mexico ● Regular monitoring of poverty in Mexico."""
 
 [[experience]]
   title = "Short Term Consultant"
