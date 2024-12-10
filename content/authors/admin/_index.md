@@ -74,12 +74,8 @@ user_groups:
 - Visitors
 ---
 Welcome to my website! 
-My name is Mariel, and I am an Economist with a Ph.D. from the Department of Economics at Georgetown University.
+My name is Mariel, and I am an Economist with a Ph.D. from the Department of Economics at Georgetown University. My expertise includes policy areas such as poverty, inequality, taxes, labor markets, climate change, and gender issues.
 
-My research interests are broad, and I have worked on diverse set of topics such as earning inequality, intergenerational mobility, and sample selection. I have published several articles in peer-reviewed journals and policy reports and presented my work at multiple international conferences. Additionally, I have processed and analyzed several complex longitudinal surveys, macroeconomic data from several countries, and big administrative data sets throughout my work.  
-
-I use Stata extensively, and as part of it, I have programmed a command that implements a copula-based method to correct sample selection in quantile regressions that was published in its peer-reviewed journal. At Georgetown University, I was a Stata tutor for the Department of Economics and part of the Women Coders club. I have been an instructor and teaching assistant for multiple econometric courses at the undergraduate and graduate levels for many years. 
-
-I did my B.A. in Economics at National University of Cordoba (ranked 2/331). During the last years of my undergraduate studies, I had my first experience doing economic research at the Institute of Economics and Finance at the National University of Cordoba. Then I moved to Chile to pursue a Master in Economics at ILADES/Georgetown University (ranked 2/14). After finishing the MAE program, I started working as an economic researcher and instructor at Santo Tomas University, Chile. Then, I was offered a research position as an economist at the Central Bank of Chile and worked there for almost five years.  
+ 
 
 
