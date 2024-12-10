@@ -19,12 +19,21 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Extended Term Consultant"
+  company = "World Bank Group"
+  company_url = ""
+  location = "Washington DC"
+  date_start = "2023-04-01"
+  date_end = 
+  description = """ • Data analytics for informing policy decisions related to poverty, inequality, taxes, labor markets, climate change, and gender issues. • Lead the implementation of the Mexico Fiscal Microsimulation Model (MexSim) to analyze the impact of fiscal policy reforms on poverty and equity outcomes and gender disparities.• Contribute to several areas of Mexico’s Poverty and Equity work program. • Macroeconomic Poverty Outcome (MPO) and Poverty and Equity Briefs (PEB) for Mexico. MPO for The Bahamas and Barbados. • Part of the organizing committee of the First Workshop on Strengthening the National Statistical Systems in the Latin American and Caribbean Region. The workshop focuses on improving the quality and availability of data across the region."""
+
+[[experience]]
   title = "Short Term Consultant"
   company = "World Bank Group"
   company_url = ""
   location = "Washington DC"
   date_start = "2022-06-01"
-  date_end = "2023-06-30"
+  date_end = "2023-04-30"
   description = """● Preparing CN on MX Core Poverty & Equity Programmatic and MX Poverty Assessment ● Lead implementation of the Mexico Fiscal Microsimulation Model (MEXSIM) and undertake microsimulations of alternative reform measures proposed by the Ministry of Finance ● Prepared MOP and PEB for Fall 2022 using MEXSIMLite Model ● Management and analysis of data sources (such as datalibweb, WB-SEDLAC) for Mexico ● Regular monitoring of poverty in Mexico."""
 
 [[experience]]
