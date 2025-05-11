@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Washington DC"
   date_start = "2023-04-01"
-  date_end = 
+  date_end = ""
   description = """ MEX """
 
 
