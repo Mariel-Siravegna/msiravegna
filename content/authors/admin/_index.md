@@ -29,10 +29,10 @@ interests:
 education:
   courses:
   - course: Ph.D. in Economics
-    institution: Georgetown University, Washington DC.
+    institution: Georgetown University, Washington, DC.
     year: 2021
   - course: M.A. in Economics
-    institution: Georgetown University, Washington DC.
+    institution: Georgetown University, Washington, DC.
     year: 2016
   - course: M.A. in Economics
     institution: Ilades/Georgetown University, Chile.
@@ -73,9 +73,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Welcome to my website! 
-My name is Mariel, and I am an Economist with a Ph.D. from the Department of Economics at Georgetown University. My expertise includes policy areas such as poverty, inequality, taxes, labor markets, climate change, and gender issues.
-
+Welcome to my website! My name is Mariel, and I am an Economist with a Ph.D. from Georgetown University. My expertise includes policy areas such as poverty, inequality, taxation, labor markets, climate change, the digital economy, gender issues, commodity prices, capital flows, forecasting, and real exchange rates.
  
 
 
