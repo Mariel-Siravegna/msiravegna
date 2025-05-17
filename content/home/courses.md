@@ -48,7 +48,7 @@ subtitle = ""
  css_class = ""
 +++
 
-1. Assessing the Distributional Impacts of Artificial Intelligence (AI): A review of evidence, methods, and policy implications 2024
++ Assessing the Distributional Impacts of Artificial Intelligence (AI): A review of evidence, methods, and policy implications 2024
 + Poverty & Equity Summer University 2024: Distributional Impacts of Trade-Theory and Hands-on Applications
 + Spatial Inequalities and Poverty: Framework, Tools and Methods, and How to Think about Policy
 + Real-Time Monitoring of Welfare Workshop 2024
