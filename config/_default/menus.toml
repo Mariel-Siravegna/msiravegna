@@ -32,11 +32,26 @@
   name = "Research"
   url = "#publications"
   weight = 50
+
+[[main]]
+  name = "Reports"
+  url = "#reports"
+  weight = 51
   
 [[main]]
   name = "Teaching"
   url = "#teaching"
   weight = 60
+
+[[main]]
+  name = "Blogs"
+  url = "#blogs"
+  weight = 70
+
+[[main]]
+  name = "Training"
+  url = "#training"
+  weight = 80
 
 #[[main]]
 #  name = "Contact"
@@ -48,4 +63,4 @@
  [[main]]
     name = "CV"
     url = "files/Mariel_Siravegna_CV.pdf"
-    weight = 70
+    weight = 99
