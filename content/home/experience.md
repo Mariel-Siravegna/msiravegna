@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   location = "Washington DC"
   date_start = "2023-04-01"
   date_end = ""
-description = """ • Data analytics for informing policy decisions related to poverty, inequality, taxes, labor markets, climate change, and gender issues. • Lead the implementation of the Mexico Fiscal Microsimulation Model (MexSim) to analyze the impact of fiscal policy reforms on poverty and equity outcomes and gender disparities.• Contribute to several areas of Mexico’s Poverty and Equity work program. • Macroeconomic Poverty Outcome (MPO) and Poverty and Equity Briefs (PEB) for Mexico. MPO for The Bahamas and Barbados. • Part of the organizing committee of the First Workshop on Strengthening the National Statistical Systems in the Latin American and Caribbean Region. The workshop focuses on improving the quality and availability of data across the region."""
+description = """ ● Data analytics for informing policy decisions related to poverty, inequality, taxes, labor markets, climate change, and gender issues. ● Lead the implementation of the Mexico Fiscal Microsimulation Model (MexSim) to analyze the impact of fiscal policy reforms on poverty and equity outcomes and gender disparities. ● Contribute to several areas of Mexico’s Poverty and Equity work program. ● Macroeconomic Poverty Outcome (MPO) and Poverty and Equity Briefs (PEB) for Mexico. MPO for The Bahamas and Barbados."""
 
 [[experience]]
   title = "Short Term Consultant"
