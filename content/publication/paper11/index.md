@@ -1,13 +1,13 @@
 ---
-title: "Gender Differences in Academic Performance during COVID-19"
+title: "Understanding the Main Determinants of Telework and Its Role in Women's Labor Force Participation"
 authors:
-- Nuria Rodriguez-Planas
+- Gabriela Inchauste
 - admin
-date: "2021-02-01T00:00:00Z"
+date: "2024-02-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-01-01T00:00:00Z"
+publishDate: "2024-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,10 +16,10 @@ publishDate: "2021-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Draft available soon*"
+publication: "*Policy Research Working Paper 108889*"
 publication_short: ""
 
-abstract:   "Early spring 2020, the COVID-19 pandemic and the subsequent shutdown of non-essential businesses disrupted the US labor market, with devastating consequences for low-wage workers and their families. As many women hold low-wage, face-to-face jobs in retail sales and hospitality, they have been harder hit than men (Bateman and Ross 2020). At the same time, since women are traditionally the primary caregivers, they have also carried a heavier load than men in the provision of childcare when schools closed, and later moved to online learning (Zamarro and Prados 2021). Juggling responsibilities at work and at home during the pandemic, many women have been forced to cut their hours or leave their jobs entirely, raising their psychological distress (Zamarro and Prados 2021). While most of the research focuses on women with family and work responsibilities, to the best of our knowledge little research has focused on the impacts of COVID-19 on women balancing college and parenthood, even though over a quarter of all undergraduates (4.8 million students) are raising dependent children, with close to three quarters (71%) being women, and two fifths (43%) being single mothers (Institute for Women’s Policy Research 2014). In this paper, we study gender disparities in the impacts of COVID-19 on academic performance and persistence of working-class urban college students raising dependent children. Using an unbalanced panel of close to 30,000 academic records spanning from the spring semester 2017 (or later if the student enrolled in college at a later date) to spring semester 2021 from 5,000 students from Queens College (QC), an urban college with a socially vulnerable and ethnically diverse student population  located in the borough of Queens in New York city, and difference-in-differences models and event study analyses with individual fixed effects, we estimate the impact of the COVID-19 pandemic on the academic performance and persistence from spring 2020 to spring 2021 of female students with dependent children relative those without dependents. Findings are compared to those of male students with and without dependent children. Preliminary findings analyzing gender disparities with difference-in-difference-in-differences and individual fixed effects suggest that mothers’ spring 2020 semester GPA was 9.5 percentage points lower than that fathers (relative to the gender gap among childless students). Mothers also dropped more credits than fathers (relative to the gender gap among childless students), but since they had enrolled in more credits to start with, there is no impact in overall credits earned. The paper also explores the mechanisms behind these findings by using the students’ responses to two rich surveys collected in summer and winter 2020. Potential mechanisms include gender disparities in: (1) childcare responsibilities and restrictions due to in-person K-12 grade education; (2) online learning; (3) changes in opportunity costs of studying due to employment losses; (4) access to emergency relief funds from the college or the government (CARES Act); (5) greater flexibility in students’ grading choices; and (6) students’ health and mental health."
+abstract:   "This paper studies telework as an opportunity to increase women’s labor force participation in Mexico. Using data on the availability and use of information technology in households, the paper models women’s labor force participation and worksite choice during the COVID-19 pandemic. The results show that telework can potentially increase female labor force participation, particularly among college-educated women. Although this is not the largest segment of women out of the labor force, as many as one in five women with higher education remain outside the labor market in Mexico. In addition, the findings show that family conditions are a clear divide in labor force status between men and women, whereas age, education, and socioeconomic status are not. Caring for children and looking after their husbands or partners seems to be a responsibility that affects women’s decision to work. To promote female workers’ engagement in the workforce, policies that encourage part-time and hybrid work arrangements, along with well thought out child and senior care programs and access to internet infrastructure need to be considered. Overall, bringing these workers into the labor force would result in productivity and growth gains for the country."
 # Summary. An optional shortened abstract.
 summary:
 
@@ -32,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 
+url_pdf: https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099713409032438274/idu129130bf41569914ca01bf9a170cb48a07f34
 url_code: ''
 url_dataset: ''
 url_poster: ''
