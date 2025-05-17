@@ -33,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.bcentral.cl/documents/33528/0/bcch_archivo_104421_en.pdf/954d6230-f547-d153-213c-9c1db255b910?t=1590428427197
+url_pdf: https://www.bcentral.cl/en/web/banco-central/content/-/details/informe-de-politica-monetaria-diciembre-2011
 url_code: ''
 url_dataset: ''
 url_poster: ''
