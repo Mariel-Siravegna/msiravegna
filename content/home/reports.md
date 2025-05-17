@@ -48,7 +48,7 @@ subtitle = "Reports to which I contributed to"
  css_class = ""
 +++
 
-1. [Republic of Zambia Systematic Country Diagnostic 2018](https://documents1.worldbank.org/curated/en/290011522954283481/pdf/Zambia-SCD-March-29-Final-04022018.pdf)
++ [Republic of Zambia Systematic Country Diagnostic 2018](https://documents1.worldbank.org/curated/en/290011522954283481/pdf/Zambia-SCD-March-29-Final-04022018.pdf)
 + [Dominican Republic Gender Assessment 2023](https://documents1.worldbank.org/curated/en/099056511212336665/pdf/IDU1436366001d011bec314ec80b8de3a5.pdf)
 + [Mexico Poverty and Equity Assessment 2024](https://openknowledge.worldbank.org/server/api/core/bitstreams/86369d34-2b5f-4c94-b967-2ab2ec712201/content)
 
