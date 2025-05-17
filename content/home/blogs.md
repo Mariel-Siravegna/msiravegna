@@ -48,6 +48,6 @@ subtitle = "English and Spanish"
  css_class = ""
 +++
 
-1. [The Gender Wage Gap in Latin America and the Caribbean: A Deeper Dive, with Ishak, P.](https://blogs.worldbank.org/en/latinamerica/gender-wage-gap-in-latin-america-and-the-caribbean)
++ [The Gender Wage Gap in Latin America and the Caribbean: A Deeper Dive, with Ishak, P.](https://blogs.worldbank.org/en/latinamerica/gender-wage-gap-in-latin-america-and-the-caribbean)
 + [Increasing Women's Workforce Participation in Mexico requires support for Child and Elder Care, with Inchauste, G.](https://blogs.worldbank.org/en/latinamerica/participacion-laboral-de-las-mujeres-en-Mexico)
 
