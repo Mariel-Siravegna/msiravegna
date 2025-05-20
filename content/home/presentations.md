@@ -55,7 +55,7 @@ subtitle = ""
 5. 2021: Columbia University Women's Applied Micro Seminar [presented by coauthor]
 6. July 2021: Belgian Stata Conference
 7. February 2021: Australian Gender Economics Workshop
-8. AASLE
+8. December 2020: AASLE 2020 Job Market
 9. Stata Conference
 10. APPAM Fall Research Conference
 11. October 2020: Missouri Valley Economic Association
